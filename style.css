@@ -1,0 +1,48 @@
+h1, h2{
+    text-align: center;
+}
+
+#mosquito{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;   
+}
+
+#messi{
+    height: 250px;
+    width: 350px;
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;   
+}
+
+#alto{
+    height: 500px;
+    width: 320px;
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;   
+}
+
+#forte{
+    height: 300px;
+    width: 210px;
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%; 
+}
+
+#pepper{
+    height: 230px;
+    width: 379px;
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%; 
+}
+
+a{
+    text-align: center;
+    display: block;
+}
